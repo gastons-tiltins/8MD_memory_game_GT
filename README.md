@@ -1,9 +1,15 @@
 # Memory game HTML/CSS/TypeScript
+
+Preview:
+
+![alt text](https://kastad.nu/gitHubRepoImages/md3.png)
+
+Instructions:
+
 ```
 npm i
 ```
 
-When all packages have been installed run:
 ```
 npm start
 ```
