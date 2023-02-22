@@ -2,7 +2,7 @@
 
 Preview:
 
-![alt text](https://kastad.nu/gitHubRepoImages/md3.png)
+![alt text](https://kastad.nu/gitHubRepoImages/md8.png)
 
 Instructions:
 
